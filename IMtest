@@ -1,0 +1,182 @@
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPPPPPP
+1 RNBQKBNR
+
+  abcdefgh
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4 P_ _ _ _
+3 _ _ _ _ 
+2  PPPPPPP
+1 RNBQKBNR
+
+  abcdefgh
+8 r_bqkbnr
+7 pppppppp
+6 n_ _ _ _
+5 _ _ _ _ 
+4 P_ _ _ _
+3 _ _ _ _ 
+2  PPPPPPP
+1 RNBQKBNR
+
+  abcdefgh
+8 r_bqkbnr
+7 pppppppp
+6 n_ _ _ _
+5 _ _ _ _ 
+4 P_ _ _ _
+3 _ _ _ _P
+2  PPPPPP_
+1 RNBQKBNR
+
+  abcdefgh
+8  rbqkbnr
+7 pppppppp
+6 n_ _ _ _
+5 _ _ _ _ 
+4 P_ _ _ _
+3 _ _ _ _P
+2  PPPPPP_
+1 RNBQKBNR
+
+  abcdefgh
+8  rbqkbnr
+7 pppppppp
+6 n_ _ _ _
+5 P _ _ _ 
+4  _ _ _ _
+3 _ _ _ _P
+2  PPPPPP_
+1 RNBQKBNR
+
+  abcdefgh
+8  rbqkbnr
+7 pppppp_p
+6 n_ _ _p_
+5 P _ _ _ 
+4  _ _ _ _
+3 _ _ _ _P
+2  PPPPPP_
+1 RNBQKBNR
+
+  abcdefgh
+8  rbqkbnr
+7 pppppp_p
+6 n_ _ _p_
+5 P _ _ _ 
+4  P _ _ _
+3 _ _ _ _P
+2  _PPPPP_
+1 RNBQKBNR
+
+  abcdefgh
+8  rbqkbnr
+7 pppppp_p
+6  _ _ _p_
+5 P _ _ _ 
+4  n _ _ _
+3 _ _ _ _P
+2  _PPPPP_
+1 RNBQKBNR
+
+  abcdefgh
+8  rbqkbnr
+7 pppppp_p
+6  _ _ _p_
+5 P _ _ _ 
+4  n _ _ _
+3 _ _ _ _P
+2 R_PPPPP_
+1 _NBQKBNR
+
+  abcdefgh
+8  rbqkbnr
+7 pppppp_p
+6  _ _ _p_
+5 P _ _ _ 
+4  _ _ _ _
+3 _ _ _ _P
+2 n_PPPPP_
+1 _NBQKBNR
+
+  abcdefgh
+8  rbqkbnr
+7 pppppp_p
+6  _ _ _p_
+5 P _ _ _ 
+4  _ _ _ _
+3 _ _ _P_P
+2 n_PPP_P_
+1 _NBQKBNR
+
+  abcdefgh
+8  rbqkbnr
+7 pppppp_p
+6  _ _ _p_
+5 P _ _ _ 
+4  _ _ _ _
+3 _ _ _P_P
+2  _PPP_P_
+1 _NnQKBNR
+
+  abcdefgh
+8  rbqkbnr
+7 pppppp_p
+6  _ _ _p_
+5 P _ _ _ 
+4  _ _ _ _
+3 _ _ _P_P
+2  _PPP_P_
+1 _NQ KBNR
+
+  abcdefgh
+8  rbqkbnr
+7 ppppp _p
+6  _ _ _p_
+5 P _ _p_ 
+4  _ _ _ _
+3 _ _ _P_P
+2  _PPP_P_
+1 _NQ KBNR
+
+  abcdefgh
+8  rbqkbnr
+7 ppppp _p
+6  _ _ _p_
+5 P _ _p_ 
+4  _ _ _ _
+3 _ _ _P_P
+2  _PPP_P_
+1 _N_QKBNR
+
+  abcdefgh
+8  rbqkbnr
+7 ppppp _p
+6  _ _ _p_
+5 P _ _ _ 
+4  _ _ p _
+3 _ _ _P_P
+2  _PPP_P_
+1 _N_QKBNR
+
+  abcdefgh
+8  rbqkbnr
+7 ppppp _p
+6  _ _ _p_
+5 P _ _ _ 
+4  _ _Pp _
+3 _ _ _P_P
+2  _PP _P_
+1 _N_QKBNR
+
+  abcdefgh
+terminate called after throwing an instance of 'InvalidMove'
+Aborted

@@ -1,0 +1,91 @@
+game computer2
+computer2
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPPPPPP
+1 RNBQKBNR
+
+  abcdefgh
+move
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  P _ _ _
+3 _ _ _ _ 
+2 P_PPPPPP
+1 RNBQKBNR
+
+  abcdefgh
+move
+8 r_bqkbnr
+7 pppppppp
+6 n_ _ _ _
+5 _ _ _ _ 
+4  P _ _ _
+3 _ _ _ _ 
+2 P_PPPPPP
+1 RNBQKBNR
+
+  abcdefgh
+move
+8 r_bqkbnr
+7 pppppppp
+6 n_ _ _ _
+5 _ _ _ _ 
+4  P _ _ _
+3 _ P _ _ 
+2 P_ PPPPP
+1 RNBQKBNR
+
+  abcdefgh
+move
+8 r_bqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  n _ _ _
+3 _ P _ _ 
+2 P_ PPPPP
+1 RNBQKBNR
+
+  abcdefgh
+move
+8 r_bqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  P _ _ _
+3 _ _ _ _ 
+2 P_ PPPPP
+1 RNBQKBNR
+
+  abcdefgh
+move
+8 r_bqkbnr
+7 _ppppppp
+6  _ _ _ _
+5 p _ _ _ 
+4  P _ _ _
+3 _ _ _ _ 
+2 P_ PPPPP
+1 RNBQKBNR
+
+  abcdefgh
+move
+8 r_bqkbnr
+7 _ppppppp
+6  _ _ _ _
+5 P _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 P_ PPPPP
+1 RNBQKBNR
+
+  abcdefgh
+move
+Segmentation fault

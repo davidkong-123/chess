@@ -1,0 +1,8 @@
+game human human
+setup
+- e2
++ q f4
++ R g3
+done
+move a2 a3
+move f4 e4

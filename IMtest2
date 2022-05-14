@@ -1,0 +1,193 @@
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPPPPPP
+1 RNBQKBNR
+
+  abcdefgh
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  P _ _ _
+3 _ _ _ _ 
+2 P_PPPPPP
+1 RNBQKBNR
+
+  abcdefgh
+8 rnbqkb r
+7 pppppppp
+6  _ _ n _
+5 _ _ _ _ 
+4  P _ _ _
+3 _ _ _ _ 
+2 P_PPPPPP
+1 RNBQKBNR
+
+  abcdefgh
+8 rnbqkb r
+7 pppppppp
+6  _ _ n _
+5 _ _ _ _ 
+4  P _ _ _
+3 _ _ _ _ 
+2 PBPPPPPP
+1 RN_QKBNR
+
+  abcdefgh
+8 rnbqkb r
+7 pppp_ppp
+6  _ _pn _
+5 _ _ _ _ 
+4  P _ _ _
+3 _ _ _ _ 
+2 PBPPPPPP
+1 RN_QKBNR
+
+  abcdefgh
+8 rnbqkb r
+7 pppp_ppp
+6  _ _pB _
+5 _ _ _ _ 
+4  P _ _ _
+3 _ _ _ _ 
+2 P_PPPPPP
+1 RN_QKBNR
+
+  abcdefgh
+8 rnb_kb r
+7 pppp_ppp
+6  _ _pq _
+5 _ _ _ _ 
+4  P _ _ _
+3 _ _ _ _ 
+2 P_PPPPPP
+1 RN_QKBNR
+
+  abcdefgh
+8 rnb_kb r
+7 pppp_ppp
+6  _ _pq _
+5 _P_ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 P_PPPPPP
+1 RN_QKBNR
+
+  abcdefgh
+8 rnb_kb r
+7 pppp_ppp
+6  _ _p_ _
+5 _P_ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 P_PPPqPP
+1 RN_QKBNR
+
+  abcdefgh
+White is in check.
+8 rnb_kb r
+7 pppp_ppp
+6  _ _p_ _
+5 _P_ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 P_PPPKPP
+1 RN_Q_BNR
+
+  abcdefgh
+8 rnb_kb r
+7 pppp_ pp
+6  _ _pp _
+5 _P_ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 P_PPPKPP
+1 RN_Q_BNR
+
+  abcdefgh
+8 rnb_kb r
+7 pppp_ pp
+6  _ _pp _
+5 _P_ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 P_PPPKPP
+1 RNQ _BNR
+
+  abcdefgh
+8 rnb_kb r
+7 pppp_ pp
+6  _ _ p _
+5 _P_ p _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 P_PPPKPP
+1 RNQ _BNR
+
+  abcdefgh
+8 rnb_kb r
+7 pppp_ pp
+6  _ _ p _
+5 _P_ p _ 
+4  _ _ _ _
+3 _ _ _ _P
+2 P_PPPKP_
+1 RNQ _BNR
+
+  abcdefgh
+8 rnb_kb r
+7 pppp_ pp
+6  _ _ p _
+5 _P_ _ _ 
+4  _ _p_ _
+3 _ _ _ _P
+2 P_PPPKP_
+1 RNQ _BNR
+
+  abcdefgh
+8 rnb_kb r
+7 pppp_ pp
+6  _ _ p _
+5 _P_ _ _ 
+4  _ _p_ _
+3 _ _ _ _P
+2 P_PPPKP_
+1 RN_ QBNR
+
+  abcdefgh
+8 rnb_kb r
+7 pppp_ pp
+6  _ _ p _
+5 _P_ _ _ 
+4  _ _ _ _
+3 _ _ p _P
+2 P_PPPKP_
+1 RN_ QBNR
+
+  abcdefgh
+8 rnb_kb r
+7 pppp_ pp
+6  _ _ p _
+5 _P_ _ _ 
+4  _ _ _ _
+3 _ _ P _P
+2 P_P_PKP_
+1 RN_ QBNR
+
+  abcdefgh
+8 rnb_kb r
+7 pp_p_ pp
+6  _ _ p _
+5 _Pp _ _ 
+4  _ _ _ _
+3 _ _ P _P
+2 P_P_PKP_
+1 RN_ QBNR
+
+  abcdefgh
+terminate called after throwing an instance of 'InvalidMove'
+Aborted
