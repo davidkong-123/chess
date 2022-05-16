@@ -17,7 +17,39 @@ The game provide two modes for user:
 
 <img width="497" alt="chess_demo" src="https://user-images.githubusercontent.com/57188393/168458163-2fbff93a-e8a2-462f-a4f2-ed7db602f33b.png">
 
-<img width="1097" alt="e19d418e79e98b3806d80c753d658ed" src="https://user-images.githubusercontent.com/57188393/168458681-316ac805-d5ed-49aa-88fd-4201375126eb.png">
+
+### Game Demo
+
+1. Human VS Human 
+
+
+
+https://user-images.githubusercontent.com/57188393/168514534-cd429ac2-d2d6-48e7-80bf-694c7a81b639.mov
+
+2. Human VS Computer level 1
+
+
+
+https://user-images.githubusercontent.com/57188393/168514625-a434dfe1-3e57-4a33-ba28-0793f1e4d58f.mov
+
+
+
+
+
+3. Human VS Computer level 2
+
+
+https://user-images.githubusercontent.com/57188393/168514601-f8ef311d-5066-4f09-8b33-42546676792a.mov
+
+
+
+4. HUman VS Computer level 3
+
+
+https://user-images.githubusercontent.com/57188393/168514637-36f1cfd9-72e1-4572-b375-6eb704e6d27b.mov
+
+
+
 
 ### Built With
 
