@@ -96,5 +96,16 @@ https://user-images.githubusercontent.com/57188393/168514637-36f1cfd9-72e1-4572-
 
    Pawn promotion would additionally specify the piece type to which the pawn is promoted: ```move e7 e8 Q```. 
 
+4.  Setup enters setup mode, within which you can set up your own initial board configurations.
+This can only be done when a game is not currently running. Within setup mode, the following language is used:
+
+   – + K e1 places the piece K (i.e., white king in this case) on the square e1. If a piece is already on that square, it is replaced. The board should be redisplayed.
+   
+   – - e1 removes the piece from the square e1 and then redisplays the board. If there is no piece at that square, take no action. 
+   
+   – = colour makes it colour’s turn to go next. 
+   
+   – done leaves setup mode.
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
