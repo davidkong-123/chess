@@ -69,7 +69,7 @@ https://user-images.githubusercontent.com/57188393/168514637-36f1cfd9-72e1-4572-
 
 1. Clone the repo
    ```sh
-   git clonehttps://github.com/davidkong-123/chess.git
+   git clone https://github.com/davidkong-123/chess.git
    ```
 2. make the Game
    ```sh
